@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "apple",
+    "word": "apple",
+    "translation": "alma",
+    "example": "I eat a red apple every morning.",
+    "example_az": "Mən hər səhər qırmızı alma yeyirəm.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "water",
+    "word": "water",
+    "translation": "su",
+    "example": "Please give me a glass of water.",
+    "example_az": "Xahiş edirəm, mənə bir stəkan su verin.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "bread",
+    "word": "bread",
+    "translation": "çörək",
+    "example": "We buy fresh bread every day.",
+    "example_az": "Biz hər gün təzə çörək alırıq.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "book",
+    "word": "book",
+    "translation": "kitab",
+    "example": "She is reading an interesting book.",
+    "example_az": "O, maraqlı bir kitab oxuyur.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "pen",
+    "word": "pen",
+    "translation": "qələm",
+    "example": "Can I borrow your pen?",
+    "example_az": "Qələminizi götürə bilərəm?",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "house",
+    "word": "house",
+    "translation": "ev",
+    "example": "Their house has a big garden.",
+    "example_az": "Onların evinin böyük bir bağı var.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "door",
+    "word": "door",
+    "translation": "qapı",
+    "example": "Please close the door.",
+    "example_az": "Zəhmət olmasa qapını bağlayın.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "table",
+    "word": "table",
+    "translation": "masa / stol",
+    "example": "The key is on the table.",
+    "example_az": "Açar masanın üstündədir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "mother",
+    "word": "mother",
+    "translation": "ana",
+    "example": "My mother makes delicious tea.",
+    "example_az": "Mənim anam ləzzətli çay hazırlayır.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "father",
+    "word": "father",
+    "translation": "ata",
+    "example": "My father goes to work by car.",
+    "example_az": "Mənim atam işə maşınla gedir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "cat",
+    "word": "cat",
+    "translation": "pişik",
+    "example": "The white cat is sleeping.",
+    "example_az": "Ağ pişik yatır.",
+    "level": "A1",
+    "category": "animals"
+  },
+  {
+    "id": "dog",
+    "word": "dog",
+    "translation": "it",
+    "example": "The dog is playing in the park.",
+    "example_az": "İt parkda oynayır.",
+    "level": "A1",
+    "category": "animals"
+  },
+  {
+    "id": "car",
+    "word": "car",
+    "translation": "maşın / avtomobil",
+    "example": "He has a blue car.",
+    "example_az": "Onun mavi maşını var.",
+    "level": "A1",
+    "category": "transport"
+  },
+  {
+    "id": "bus",
+    "word": "bus",
+    "translation": "avtobus",
+    "example": "I go to work by bus.",
+    "example_az": "Mən işə avtobusla gedirəm.",
+    "level": "A1",
+    "category": "transport"
+  },
+  {
+    "id": "one",
+    "word": "one",
+    "translation": "bir",
+    "example": "I have one brother.",
+    "example_az": "Mənim bir qardaşım var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "today",
+    "word": "today",
+    "translation": "bu gün",
+    "example": "Today is a sunny day.",
+    "example_az": "Bu gün günəşli bir gündür.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "friend",
+    "word": "friend",
+    "translation": "dost",
+    "example": "He is my best friend.",
+    "example_az": "O, mənim ən yaxşı dostumdur.",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "work",
+    "word": "work",
+    "translation": "iş",
+    "example": "I start work at nine o'clock.",
+    "example_az": "Mən işə saat doqquzda başlayıram.",
+    "level": "A1",
+    "category": "work"
+  },
+  {
+    "id": "happy",
+    "word": "happy",
+    "translation": "xoşbəxt / şad",
+    "example": "She looks very happy today.",
+    "example_az": "O, bu gün çox xoşbəxt görünür.",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "city",
+    "word": "city",
+    "translation": "şəhər",
+    "example": "Baku is a beautiful city.",
+    "example_az": "Bakı gözəl şəhərdir.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "morning",
+    "word": "morning",
+    "translation": "səhər",
+    "example": "Good morning, my friend.",
+    "example_az": "Sabahın xeyir, mənim dostum.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "night",
+    "word": "night",
+    "translation": "gecə",
+    "example": "Good night, sleep well.",
+    "example_az": "Gecən xeyrə qalsın, yaxşı yat.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "milk",
+    "word": "milk",
+    "translation": "süd",
+    "example": "I drink milk every morning.",
+    "example_az": "Mən hər səhər süd içirəm.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "tea",
+    "word": "tea",
+    "translation": "çay",
+    "example": "Do you want hot tea?",
+    "example_az": "İsti çay istəyirsən?",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "coffee",
+    "word": "coffee",
+    "translation": "qəhvə",
+    "example": "He drinks black coffee.",
+    "example_az": "O, qara qəhvə içir.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "cheese",
+    "word": "cheese",
+    "translation": "pendir",
+    "example": "We eat bread and cheese for breakfast.",
+    "example_az": "Səhər yeməyinə çörək və pendir yeyirik.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "egg",
+    "word": "egg",
+    "translation": "yumurta",
+    "example": "I like fried eggs.",
+    "example_az": "Mən qızartma yumurta sevirəm.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "water_bottle",
+    "word": "bottle",
+    "translation": "bütülkə / şüşə",
+    "example": "There is a bottle of water on the table.",
+    "example_az": "Masanın üstündə bir bütülkə su var.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "school",
+    "word": "school",
+    "translation": "məktəb",
+    "example": "Children go to school at eight o'clock.",
+    "example_az": "Uşaqlar məktəbə saat səkkizdə gedir.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "teacher",
+    "word": "teacher",
+    "translation": "müəllim",
+    "example": "Our English teacher is very kind.",
+    "example_az": "Bizim ingilis dili müəllimimiz çox mehribandır.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "student",
+    "word": "student",
+    "translation": "tələbə / şagird",
+    "example": "My brother is a good student.",
+    "example_az": "Mənim qardaşım yaxşı tələbədir.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "pencil",
+    "word": "pencil",
+    "translation": "karandaş",
+    "example": "I need a pencil to write.",
+    "example_az": "Yazmaq üçün mənə karandaş lazımdır.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "bag",
+    "word": "bag",
+    "translation": "çantası / çanta",
+    "example": "My bag is heavy today.",
+    "example_az": "Çantam bu gün ağırdır.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "paper",
+    "word": "paper",
+    "translation": "kağız",
+    "example": "Draw a picture on this paper.",
+    "example_az": "Bu kağızın üstündə şəkil çək.",
+    "level": "A1",
+    "category": "school"
+  },
+  {
+    "id": "chair",
+    "word": "chair",
+    "translation": "stul",
+    "example": "Sit on this chair, please.",
+    "example_az": "Zəhmət olmasa bu stulda əyləşin.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "window",
+    "word": "window",
+    "translation": "pəncərə",
+    "example": "Open the window, it is warm inside.",
+    "example_az": "Pəncərəni açın, içəri istidir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "room",
+    "word": "room",
+    "translation": "otaq",
+    "example": "My room is small but clean.",
+    "example_az": "Mənim otağım kiçik, amma təmizdir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "bed",
+    "word": "bed",
+    "translation": "çarpayı / yataq",
+    "example": "The baby is sleeping in the bed.",
+    "example_az": "Körpə çarpayıda yatır.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "clock",
+    "word": "clock",
+    "translation": "saat (divar/masa)",
+    "example": "The clock on the wall shows five o'clock.",
+    "example_az": "Divardakı saat beşi göstərir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "key",
+    "word": "key",
+    "translation": "açar",
+    "example": "Where is my house key?",
+    "example_az": "Mənim ev açarım haradadır?",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "brother",
+    "word": "brother",
+    "translation": "qardaş",
+    "example": "My brother plays football.",
+    "example_az": "Mənim qardaşım futbol oynayır.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "sister",
+    "word": "sister",
+    "translation": "bacı",
+    "example": "My sister likes drawing pictures.",
+    "example_az": "Mənim bacım şəkil çəkməyi sevir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "child",
+    "word": "child",
+    "translation": "uşaq",
+    "example": "The child is playing with a ball.",
+    "example_az": "Uşaq topla oynayır.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family",
+    "word": "family",
+    "translation": "ailə",
+    "example": "I love my family.",
+    "example_az": "Mən ailəmi sevirəm.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "man",
+    "word": "man",
+    "translation": "kişi",
+    "example": "That man is my uncle.",
+    "example_az": "O kişi mənim əmimdir (dayımdır).",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "woman",
+    "word": "woman",
+    "translation": "qadın",
+    "example": "The woman is talking on the phone.",
+    "example_az": "Qadın telefonla danışır.",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "boy",
+    "word": "boy",
+    "translation": "oğlan",
+    "example": "The boy runs very fast.",
+    "example_az": "Oğlan çox sürətlə qaçır.",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "girl",
+    "word": "girl",
+    "translation": "qız",
+    "example": "The little girl is singing.",
+    "example_az": "Balaca qız mahnı oxuyur.",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "bird",
+    "word": "bird",
+    "translation": "quş",
+    "example": "A green bird is sitting on the tree.",
+    "example_az": "Ağacda yaşıl quş oturub.",
+    "level": "A1",
+    "category": "animals"
+  },
+  {
+    "id": "fish",
+    "word": "fish",
+    "translation": "balıq",
+    "example": "The small fish swims in the water.",
+    "example_az": "Balaca balıq suda üzür.",
+    "level": "A1",
+    "category": "animals"
+  },
+  {
+    "id": "horse",
+    "word": "horse",
+    "translation": "at",
+    "example": "The horse is eating green grass.",
+    "example_az": "At yaşıl ot yeyir.",
+    "level": "A1",
+    "category": "animals"
+  },
+  {
+    "id": "train",
+    "word": "train",
+    "translation": "qatar",
+    "example": "The train arrives at six o'clock.",
+    "example_az": "Qatar saat altıda çatır.",
+    "level": "A1",
+    "category": "transport"
+  },
+  {
+    "id": "plane",
+    "word": "plane",
+    "translation": "təyyarə",
+    "example": "The plane is flying high.",
+    "example_az": "Təyyarə yüksəkdən uçur.",
+    "level": "A1",
+    "category": "transport"
+  },
+  {
+    "id": "bicycle",
+    "word": "bicycle",
+    "translation": "velosiped",
+    "example": "He rides his bicycle every evening.",
+    "example_az": "O, hər axşam velosiped sürür.",
+    "level": "A1",
+    "category": "transport"
+  },
+  {
+    "id": "street",
+    "word": "street",
+    "translation": "küçə",
+    "example": "Our street is clean and quiet.",
+    "example_az": "Küçəmiz təmiz və sakitdir.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "park",
+    "word": "park",
+    "translation": "park",
+    "example": "We walk in the park together.",
+    "example_az": "Biz birlikdə parkda gəzirik.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "shop",
+    "word": "shop",
+    "translation": "mağaza",
+    "example": "I buy bread from the shop.",
+    "example_az": "Mən mağazadan çörək alıram.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "money",
+    "word": "money",
+    "translation": "pul",
+    "example": "Do you have enough money?",
+    "example_az": "Kifayət qədər pulun var?",
+    "level": "A1",
+    "category": "shopping"
+  },
+  {
+    "id": "clothes",
+    "word": "clothes",
+    "translation": "paltar",
+    "example": "I buy warm clothes for winter.",
+    "example_az": "Qış üçün isti paltarlar alıram.",
+    "level": "A1",
+    "category": "shopping"
+  },
+  {
+    "id": "shoes",
+    "word": "shoes",
+    "translation": "ayaqqabı",
+    "example": "These new shoes are comfortable.",
+    "example_az": "Bu yeni ayaqqabılar rahatdır.",
+    "level": "A1",
+    "category": "shopping"
+  },
+  {
+    "id": "sun",
+    "word": "sun",
+    "translation": "günəş",
+    "example": "The sun is bright today.",
+    "example_az": "Bu gün günəş parlaqdır.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "rain",
+    "word": "rain",
+    "translation": "yağış",
+    "example": "I like walking in the rain.",
+    "example_az": "Yağışda gəzməyi sevirəm.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "tree",
+    "word": "tree",
+    "translation": "ağac",
+    "example": "There is a big tree in front of our house.",
+    "example_az": "Evimizin qabağında böyük bir ağac var.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "flower",
+    "word": "flower",
+    "translation": "gül / çiçək",
+    "example": "This red flower smells good.",
+    "example_az": "Bu qırmızı gülün yaxşı qoxusu var.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "big",
+    "word": "big",
+    "translation": "böyük",
+    "example": "They live in a big house.",
+    "example_az": "Onlar böyük evdə yaşayırlar.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "small",
+    "word": "small",
+    "translation": "kiçik / balaca",
+    "example": "I have a small cat.",
+    "example_az": "Mənim balaca bir pişik var.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "good",
+    "word": "good",
+    "translation": "yaxşı",
+    "example": "This is a very good book.",
+    "example_az": "Bu çox yaxşı kitabdır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "bad",
+    "word": "bad",
+    "translation": "pis",
+    "example": "The weather is bad today.",
+    "example_az": "Bu gün hava pisdir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "hot",
+    "word": "hot",
+    "translation": "isti",
+    "example": "The tea is very hot.",
+    "example_az": "Çay çox istidir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "cold",
+    "word": "cold",
+    "translation": "soyuq",
+    "example": "Winter days are cold.",
+    "example_az": "Qış günləri soyuq olur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "doctor",
+    "word": "doctor",
+    "translation": "həkim",
+    "example": "The doctor is checking the patient.",
+    "example_az": "Həkim xəstəni yoxlayır.",
+    "level": "A1",
+    "category": "work"
+  },
+  {
+    "id": "driver",
+    "word": "driver",
+    "translation": "sürücü",
+    "example": "The bus driver is very careful.",
+    "example_az": "Avtobus sürücüsü çox diqqətlidir.",
+    "level": "A1",
+    "category": "work"
+  },
+  {
+    "id": "phone",
+    "word": "phone",
+    "translation": "telefon",
+    "example": "My phone is ringing.",
+    "example_az": "Telefonum zəng çalır.",
+    "level": "A1",
+    "category": "technology"
+  },
+  {
+    "id": "computer",
+    "word": "computer",
+    "translation": "kompüter",
+    "example": "I use a computer at work.",
+    "example_az": "Mən işdə kompüterdən istifadə edirəm.",
+    "level": "A1",
+    "category": "technology"
+  },
+  {
+    "id": "picture",
+    "word": "picture",
+    "translation": "şəkil",
+    "example": "This picture is very beautiful.",
+    "example_az": "Bu şəkil çox gözəldir.",
+    "level": "A1",
+    "category": "art"
+  },
+  {
+    "id": "music",
+    "word": "music",
+    "translation": "musiqi",
+    "example": "I like listening to music.",
+    "example_az": "Mən musiqiyə qulaq asmağı sevirəm.",
+    "level": "A1",
+    "category": "art"
+  },
+  {
+    "id": "song",
+    "word": "song",
+    "translation": "mahnı",
+    "example": "This is my favorite song.",
+    "example_az": "Bu mənim ən sevdiyim mahnıdır.",
+    "level": "A1",
+    "category": "art"
+  },
+  {
+    "id": "game",
+    "word": "game",
+    "translation": "oyun",
+    "example": "Children love this new game.",
+    "example_az": "Uşaqlar bu yeni oyunu çox sevir.",
+    "level": "A1",
+    "category": "leisure"
+  },
+  {
+    "id": "ball",
+    "word": "ball",
+    "translation": "top",
+    "example": "He kicks the ball into the net.",
+    "example_az": "O, topu toraya vurur.",
+    "level": "A1",
+    "category": "sports"
+  },
+  {
+    "id": "football",
+    "word": "football",
+    "translation": "futbol",
+    "example": "We play football on weekends.",
+    "example_az": "Biz həftəsonları futbol oynayırıq.",
+    "level": "A1",
+    "category": "sports"
+  },
+  {
+    "id": "sea",
+    "word": "sea",
+    "translation": "dəniz",
+    "example": "The Caspian Sea is near Baku.",
+    "example_az": "Xəzər dənizi Bakının yaxınlığındadır.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "sky",
+    "word": "sky",
+    "translation": "səma / göy",
+    "example": "The sky is clear today.",
+    "example_az": "Bu gün səma açıqdır.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "night_sky",
+    "word": "star",
+    "translation": "ulduz",
+    "example": "Look at that bright star.",
+    "example_az": "O parlaq ulduza bax.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "moon",
+    "word": "moon",
+    "translation": "ay",
+    "example": "The moon shines at night.",
+    "example_az": "Ay gecə vaxtı parıldayır.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "red",
+    "word": "red",
+    "translation": "qırmızı",
+    "example": "She wears a red dress.",
+    "example_az": "O, qırmızı don geyinir.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "blue",
+    "word": "blue",
+    "translation": "mavi / göy",
+    "example": "The car is dark blue.",
+    "example_az": "Maşın tünd mavidir.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "green",
+    "word": "green",
+    "translation": "yaşıl",
+    "example": "The grass is green in spring.",
+    "example_az": "Yazda otlar yaşıl olur.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "yellow",
+    "word": "yellow",
+    "translation": "sarı",
+    "example": "The sun is yellow.",
+    "example_az": "Günəş sarıdır.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "white",
+    "word": "white",
+    "translation": "ağ",
+    "example": "Snow is white.",
+    "example_az": "Qar ağdır.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "black",
+    "word": "black",
+    "translation": "qara",
+    "example": "He has a black jacket.",
+    "example_az": "Onun qara gödəkçəsi var.",
+    "level": "A1",
+    "category": "colors"
+  },
+  {
+    "id": "fast",
+    "word": "fast",
+    "translation": "sürətli / tez",
+    "example": "This car is very fast.",
+    "example_az": "Bu maşın çox sürətlidir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "slow",
+    "word": "slow",
+    "translation": "yavaş",
+    "example": "The turtle is a slow animal.",
+    "example_az": "Tısbağa yavaş heyvandır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "new",
+    "word": "new",
+    "translation": "yeni / təzə",
+    "example": "I bought a new phone.",
+    "example_az": "Mən yeni telefon aldım.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "old",
+    "word": "old",
+    "translation": "köhnə / qoca",
+    "example": "This is an old house.",
+    "example_az": "Bu, köhnə bir evdir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "clean",
+    "word": "clean",
+    "translation": "təmiz",
+    "example": "Keep your hands clean.",
+    "example_az": "Əllərinizi təmiz saxlayın.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "dirty",
+    "word": "dirty",
+    "translation": "çirkli",
+    "example": "These shoes are dirty.",
+    "example_az": "Bu ayaqqabılar çirklidir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "easy",
+    "word": "easy",
+    "translation": "asan",
+    "example": "This English task is easy.",
+    "example_az": "Bu ingilis dili tapşırığı asandır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "difficult",
+    "word": "difficult",
+    "translation": "çətin",
+    "example": "The question was very difficult.",
+    "example_az": "Sual çox çətin idi.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "eat",
+    "word": "eat",
+    "translation": "yemək",
+    "example": "We eat dinner at seven.",
+    "example_az": "Biz şam yeməyini saat yeddidə yeyirik.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "drink",
+    "word": "drink",
+    "translation": "içmək",
+    "example": "Drink plenty of water every day.",
+    "example_az": "Hər gün bol su iç.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "sleep",
+    "word": "sleep",
+    "translation": "yatmaq",
+    "example": "I sleep eight hours every night.",
+    "example_az": "Mən hər gecə səkkiz saat yatıram.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "run",
+    "word": "run",
+    "translation": "qaçmaq",
+    "example": "They run in the park every morning.",
+    "example_az": "Onlar hər səhər parkda qaçırlar.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "walk",
+    "word": "walk",
+    "translation": "gəzmək / yerimək",
+    "example": "I walk to work every day.",
+    "example_az": "Mən hər gün işə piyada gedirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "read",
+    "word": "read",
+    "translation": "oxumaq",
+    "example": "He reads the newspaper in the morning.",
+    "example_az": "O, səhərlər qəzet oxuyur.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "write",
+    "word": "write",
+    "translation": "yazmaq",
+    "example": "Write your name on this paper.",
+    "example_az": "Adınızı bu kağıza yazın.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "listen",
+    "word": "listen",
+    "translation": "dinləmək / qulaq asmaq",
+    "example": "Listen to the teacher carefully.",
+    "example_az": "Müəllimə diqqətlə qulaq asın.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "speak",
+    "word": "speak",
+    "translation": "danışmaq",
+    "example": "I speak English and Azerbaijani.",
+    "example_az": "Mən ingilis və azərbaycan dillərində danışıram.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "buy",
+    "word": "buy",
+    "translation": "almaq (satın almaq)",
+    "example": "I want to buy fresh fruits.",
+    "example_az": "Təzə meyvələr almaq istəyirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "sell",
+    "word": "sell",
+    "translation": "satmaq",
+    "example": "They sell bread in this shop.",
+    "example_az": "Bu mağazada çörək satırlar.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "open",
+    "word": "open",
+    "translation": "açmaq",
+    "example": "Open your book to page ten.",
+    "example_az": "Kitabınızı onuncu səhifəyə açın.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "close",
+    "word": "close",
+    "translation": "bağlamaq",
+    "example": "Close the window, please.",
+    "example_az": "Zəhmət olmasa pəncərəni bağlayın.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "help",
+    "word": "help",
+    "translation": "kömək etmək",
+    "example": "Can you help me with this box?",
+    "example_az": "Bu qutu ilə mənə kömək edə bilərsiniz?",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "love",
+    "word": "love",
+    "translation": "sevmək",
+    "example": "I love playing games with my family.",
+    "example_az": "Ailəmlə oyun oynamağı sevirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "like",
+    "word": "like",
+    "translation": "bəyənmək / xoşlamaq",
+    "example": "I like warm tea in winter.",
+    "example_az": "Qışda isti çayı xoşlayıram.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "always",
+    "word": "always",
+    "translation": "həmişə",
+    "example": "He is always happy.",
+    "example_az": "O həmişə şaddır.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "never",
+    "word": "never",
+    "translation": "heç vaxt",
+    "example": "I am never late for work.",
+    "example_az": "Mən işə heç vaxt gecikmirəm.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "sometimes",
+    "word": "sometimes",
+    "translation": "bəzən",
+    "example": "Sometimes we eat dinner outside.",
+    "example_az": "Bəzən şam yeməyini çöldə yeyirik.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "here",
+    "word": "here",
+    "translation": "burada / buraya",
+    "example": "Come here, please.",
+    "example_az": "Zəhmət olmasa buraya gəlin.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "there",
+    "word": "there",
+    "translation": "orada / oraya",
+    "example": "My car is parked over there.",
+    "example_az": "Maşınım bax orada saxlanılıb.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "where",
+    "word": "where",
+    "translation": "harada / haraya",
+    "example": "Where is the nearest bus stop?",
+    "example_az": "Ən yaxın avtobus dayanacağı haradadır?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "always_busy",
+    "word": "busy",
+    "translation": "məşğul",
+    "example": "He is very busy today.",
+    "example_az": "O, bu gün çox məşğuldur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "hungry",
+    "word": "hungry",
+    "translation": "acıqmış / ac",
+    "example": "I am hungry, let's eat.",
+    "example_az": "Acığmışam, gəl yeyək.",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "thirsty",
+    "word": "thirsty",
+    "translation": "susamış",
+    "example": "The child is thirsty.",
+    "example_az": "Uşaq susayıb.",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "tired",
+    "word": "tired",
+    "translation": "yorğun",
+    "example": "I feel tired after work.",
+    "example_az": "İşdən sonra özümü yorğun hiss edirəm.",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "sad",
+    "word": "sad",
+    "translation": "qəmgin / kədərli",
+    "example": "Why are you sad?",
+    "example_az": "Niyə kədərlisən?",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "angry",
+    "word": "angry",
+    "translation": "əsəbi / qəzəbli",
+    "example": "Please do not be angry.",
+    "example_az": "Xahiş edirəm, əsəbiləşmə.",
+    "level": "A1",
+    "category": "feelings"
+  },
+  {
+    "id": "beautiful",
+    "word": "beautiful",
+    "translation": "gözəl",
+    "example": "This is a beautiful park.",
+    "example_az": "Bu çox gözəl parkdır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "tall",
+    "word": "tall",
+    "translation": "hündür / uca",
+    "example": "My brother is tall.",
+    "example_az": "Mənim qardaşım hündürboydur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "short",
+    "word": "short",
+    "translation": "qısa / alçaqboy",
+    "example": "It is a short story.",
+    "example_az": "Bu, qısa bir hekayədir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "rich",
+    "word": "rich",
+    "translation": "zəngin / varlı",
+    "example": "He is a rich man.",
+    "example_az": "O, varlı adamdır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "poor",
+    "word": "poor",
+    "translation": "kasıb / yoxsul",
+    "example": "They help poor people.",
+    "example_az": "Onlar kasıb insanlara kömək edirlər.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "young",
+    "word": "young",
+    "translation": "gənc / cavan",
+    "example": "She is a young girl.",
+    "example_az": "O, gənc bir qızdır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "cold_water",
+    "word": "ice",
+    "translation": "buz",
+    "example": "I need ice for my juice.",
+    "example_az": "Şirəm üçün mənə buz lazımdır.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "tea_cup",
+    "word": "cup",
+    "translation": "fincan",
+    "example": "I drink tea from a big cup.",
+    "example_az": "Mən çayı böyük fincandan içirəm.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "glass",
+    "word": "glass",
+    "translation": "stəkan / şüşə",
+    "example": "Fill the glass with water.",
+    "example_az": "Stəkanı su ilə doldurun.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "plate",
+    "word": "plate",
+    "translation": "boşqab",
+    "example": "Put the food on the plate.",
+    "example_az": "Yeməyi boşqaba qoyun.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "spoon",
+    "word": "spoon",
+    "translation": "qaşıq",
+    "example": "I need a spoon for soup.",
+    "example_az": "Dovğa/şorba üçün mənə qaşıq lazımdır.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "fork",
+    "word": "fork",
+    "translation": "çəngəl",
+    "example": "Eat your food with a fork.",
+    "example_az": "Yeməyinizi çəngəllə yeyin.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "knife",
+    "word": "knife",
+    "translation": "bıçaq",
+    "example": "Be careful with that knife.",
+    "example_az": "O bıçaqla ehtiyatlı olun.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "kitchen",
+    "word": "kitchen",
+    "translation": "mətbəx",
+    "example": "My mother is in the kitchen.",
+    "example_az": "Mənim anam mətbəxdədir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "bathroom",
+    "word": "bathroom",
+    "translation": "hamam otağı",
+    "example": "He is washing his face in the bathroom.",
+    "example_az": "O, hamamda üzünü yuyur.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "garden",
+    "word": "garden",
+    "translation": "bağ / həyət",
+    "example": "We have red flowers in our garden.",
+    "example_az": "Bağımızda qırmızı güllər var.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "wall",
+    "word": "wall",
+    "translation": "divar",
+    "example": "There is a clock on the wall.",
+    "example_az": "Divarda bir saat var.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "floor",
+    "word": "floor",
+    "translation": "döşəmə / mərtəbə",
+    "example": "We live on the second floor.",
+    "example_az": "Biz ikinci mərtəbədə yaşayırıq.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "window_curtain",
+    "word": "curtain",
+    "translation": "pərdə",
+    "example": "The curtain is white.",
+    "example_az": "Pərdə ağdır.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "light",
+    "word": "light",
+    "translation": "ışıq",
+    "example": "Turn on the light, please.",
+    "example_az": "Zəhmət olmasa işığı yandırın.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "sun_light",
+    "word": "lamp",
+    "translation": "lampa",
+    "example": "The desk lamp is new.",
+    "example_az": "Masa lampası yenidir.",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": "family_baby",
+    "word": "baby",
+    "translation": "körpə",
+    "example": "The baby is smiling.",
+    "example_az": "Körpə gülümsəyir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_parents",
+    "word": "parents",
+    "translation": "valideynlər",
+    "example": "My parents live in Baku.",
+    "example_az": "Mənim valideynlərim Bakıda yaşayır.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_son",
+    "word": "son",
+    "translation": "oğul",
+    "example": "Their son goes to school.",
+    "example_az": "Onların oğlu məktəbə gedir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_daughter",
+    "word": "daughter",
+    "translation": "qız (övlad)",
+    "example": "His daughter likes music.",
+    "example_az": "Onun qızı musiqini sevir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_husband",
+    "word": "husband",
+    "translation": "həyat yoldaşı (ər)",
+    "example": "Her husband is a driver.",
+    "example_az": "Onun yoldaşı sürücüdür.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_wife",
+    "word": "wife",
+    "translation": "həyat yoldaşı (qadın)",
+    "example": "My wife cooks delicious food.",
+    "example_az": "Mənim yoldaşım ləzzətli yeməklər bişirir.",
+    "level": "A1",
+    "category": "family"
+  },
+  {
+    "id": "family_name",
+    "word": "name",
+    "translation": "ad",
+    "example": "What is your name?",
+    "example_az": "Sənin adın nədir?",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "person_age",
+    "word": "age",
+    "translation": "yaş",
+    "example": "What is your age?",
+    "example_az": "Sizin neçə yaşınız var?",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": "country",
+    "word": "country",
+    "translation": "ölkə",
+    "example": "Azerbaijan is my country.",
+    "example_az": "Azərbaycan mənim ölkəmdir.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "world",
+    "word": "world",
+    "translation": "dünya",
+    "example": "Travel around the world.",
+    "example_az": "Dünyanı səyahət edin.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "sea_beach",
+    "word": "beach",
+    "translation": "çimərlik",
+    "example": "We go to the beach in summer.",
+    "example_az": "Biz yayda çimərliyə gedirik.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "mountain",
+    "word": "mountain",
+    "translation": "dağ",
+    "example": "The mountain is covered with snow.",
+    "example_az": "Dağ qarla örtülüb.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "river",
+    "word": "river",
+    "translation": "çay (axar su)",
+    "example": "The river water is cold.",
+    "example_az": "Çayın suyu soyuqdur.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "weather_rain",
+    "word": "weather",
+    "translation": "hava",
+    "example": "How is the weather today?",
+    "example_az": "Bu gün hava necədir?",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "weather_snow",
+    "word": "snow",
+    "translation": "qar",
+    "example": "Children love playing in the snow.",
+    "example_az": "Uşaqlar qarda oynamağı sevir.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "weather_wind",
+    "word": "wind",
+    "translation": "külək",
+    "example": "The wind is very strong today.",
+    "example_az": "Bu gün külək çox güclüdür.",
+    "level": "A1",
+    "category": "nature"
+  },
+  {
+    "id": "time_year",
+    "word": "year",
+    "translation": "il",
+    "example": "Happy New Year!",
+    "example_az": "Yeni iliniz mübarək!",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_month",
+    "word": "month",
+    "translation": "ay (vaxt vahidi)",
+    "example": "There are twelve months in a year.",
+    "example_az": "Bir ildə on iki ay var.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_week",
+    "word": "week",
+    "translation": "həftə",
+    "example": "See you next week.",
+    "example_az": "Gələn həftə görüşərik.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_day",
+    "word": "day",
+    "translation": "gün",
+    "example": "Have a nice day!",
+    "example_az": "Xoş günlər!",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_hour",
+    "word": "hour",
+    "translation": "saat (müddət)",
+    "example": "Wait for one hour, please.",
+    "example_az": "Zəhmət olmasa bir saat gözləyin.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_minute",
+    "word": "minute",
+    "translation": "dəqiqə",
+    "example": "I will be back in five minutes.",
+    "example_az": "Beş dəqiqəyə qayıdacam.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "time_second",
+    "word": "second",
+    "translation": "saniyə",
+    "example": "Just a second, please.",
+    "example_az": "Zəhmət olmasa bir saniyə.",
+    "level": "A1",
+    "category": "time"
+  },
+  {
+    "id": "action_see",
+    "word": "see",
+    "translation": "görmək",
+    "example": "I can see the mountains from here.",
+    "example_az": "Mən buradan dağları görə bilirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_look",
+    "word": "look",
+    "translation": "baxmaq",
+    "example": "Look at this nice picture.",
+    "example_az": "Bu qəşəng şəkilə bax.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_hear",
+    "word": "hear",
+    "translation": "eşitmək",
+    "example": "Can you hear that noise?",
+    "example_az": "O səsi eşidə bilirsən?",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_think",
+    "word": "think",
+    "translation": "düşünmək / fikirləşmək",
+    "example": "I think this is a good idea.",
+    "example_az": "Məncə bu yaxşı fikirdir.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_know",
+    "word": "know",
+    "translation": "bilmək / tanımaq",
+    "example": "I know the answer to this question.",
+    "example_az": "Mən bu sualın cavabını bilirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_understand",
+    "word": "understand",
+    "translation": "başa düşmək / anlamaq",
+    "example": "Do you understand English?",
+    "example_az": "İngilis dilini başa düşürsən?",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_remember",
+    "word": "remember",
+    "translation": "xatırlamaq / yadda saxlamaq",
+    "example": "Please remember to call me.",
+    "example_az": "Mənə zəng etməyi yaddan çıxarma (xatırla).",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_forget",
+    "word": "forget",
+    "translation": "unutmaq / yaddan çıxarmaq",
+    "example": "Don't forget your key.",
+    "example_az": "Açarını unutma.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_make",
+    "word": "make",
+    "translation": "düzəltmək / hazırlamaq",
+    "example": "My mother can make delicious cakes.",
+    "example_az": "Anam ləzzətli tortlar hazırlaya bilir.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_give",
+    "word": "give",
+    "translation": "vermək",
+    "example": "Give me that book, please.",
+    "example_az": "Zəhmət olmasa o kitabı mənə ver.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_take",
+    "word": "take",
+    "translation": "götürmək / aparmaq",
+    "example": "Take an umbrella with you.",
+    "example_az": "Özünlə çətir götür.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_come",
+    "word": "come",
+    "translation": "gəlmək",
+    "example": "Come in and sit down.",
+    "example_az": "İçəri gəlin və əyləşin.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_go",
+    "word": "go",
+    "translation": "getmək",
+    "example": "We go to the park every Sunday.",
+    "example_az": "Biz hər bazar günü parka gedirik.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_stop",
+    "word": "stop",
+    "translation": "dayanmaq / saxlamaq",
+    "example": "The bus stops here.",
+    "example_az": "Avtobus burada dayanır.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "action_start",
+    "word": "start",
+    "translation": "başlamaq",
+    "example": "The movie starts at eight o'clock.",
+    "example_az": "Kino saat səkkizdə başlayır.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "body_head",
+    "word": "head",
+    "translation": "baş",
+    "example": "My head hurts a little.",
+    "example_az": "Başım bir az ağrıyır.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_face",
+    "word": "face",
+    "translation": "üz / sifət",
+    "example": "Wash your face with cold water.",
+    "example_az": "Üzünü soyuq su ilə yu.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_eye",
+    "word": "eye",
+    "translation": "göz",
+    "example": "She has green eyes.",
+    "example_az": "Onun yaşıl gözləri var.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_ear",
+    "word": "ear",
+    "translation": "qulaq",
+    "example": "Rabbits have long ears.",
+    "example_az": "Dovşanların uzun qulaqları olur.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_nose",
+    "word": "nose",
+    "translation": "burun",
+    "example": "Touch your nose.",
+    "example_az": "Burnuna toxun.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_mouth",
+    "word": "mouth",
+    "translation": "ağız",
+    "example": "Open your mouth, please.",
+    "example_az": "Zəhmət olmasa ağzınızı açın.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_hand",
+    "word": "hand",
+    "translation": "əl",
+    "example": "Wash your hands before eating.",
+    "example_az": "Yeməkdən əvvəl əllərinizi yuyun.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_leg",
+    "word": "leg",
+    "translation": "qıç / ayaq",
+    "example": "My legs are tired after running.",
+    "example_az": "Qaçdıqdan sonra ayaqlarım yorulub.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_foot",
+    "word": "foot",
+    "translation": "ayaq (pəncə)",
+    "example": "He hurt his left foot.",
+    "example_az": "O, sol ayağını zədələdi.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "body_hair",
+    "word": "hair",
+    "translation": "saç",
+    "example": "She has long black hair.",
+    "example_az": "Onun uzun qara saçları var.",
+    "level": "A1",
+    "category": "body"
+  },
+  {
+    "id": "clothes_shirt",
+    "word": "shirt",
+    "translation": "köynək",
+    "example": "He wears a white shirt.",
+    "example_az": "O, ağ köynək geyinir.",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "clothes_pants",
+    "word": "trousers",
+    "translation": "şalvar",
+    "example": "I need new trousers.",
+    "example_az": "Mənə yeni şalvar lazımdır.",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "clothes_dress",
+    "word": "dress",
+    "translation": "don / libas",
+    "example": "That red dress is beautiful.",
+    "example_az": "O qırmızı don çox gözəldir.",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "clothes_hat",
+    "word": "hat",
+    "translation": "papak / şlyapa",
+    "example": "Put on your hat, it is cold.",
+    "example_az": "Papağını geyin, soyuqdur.",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "clothes_coat",
+    "word": "coat",
+    "translation": "palto / gödəkçə",
+    "example": "Take your heavy coat for winter.",
+    "example_az": "Qış üçün qalın paltonu götür.",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "clothes_socks",
+    "word": "socks",
+    "translation": "corab",
+    "example": "Where are my warm socks?",
+    "example_az": "Mənim isti corablarım haradadır?",
+    "level": "A1",
+    "category": "clothes"
+  },
+  {
+    "id": "number_two",
+    "word": "two",
+    "translation": "iki",
+    "example": "I have two cats at home.",
+    "example_az": "Evdə iki pişikim var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "number_three",
+    "word": "three",
+    "translation": "üç",
+    "example": "There are three books on the table.",
+    "example_az": "Masanın üstündə üç kitab var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "number_four",
+    "word": "four",
+    "translation": "dörd",
+    "example": "A chair has four legs.",
+    "example_az": "Stulun dörd ayağı var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "number_five",
+    "word": "five",
+    "translation": "beş",
+    "example": "We have five fingers on each hand.",
+    "example_az": "Hər əlimizdə beş barmaq var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "number_ten",
+    "word": "ten",
+    "translation": "on",
+    "example": "The lesson starts in ten minutes.",
+    "example_az": "Dərs on dəqiqəyə başlayır.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "number_hundred",
+    "word": "hundred",
+    "translation": "yüz",
+    "example": "There are one hundred pages in this book.",
+    "example_az": "Bu kitabda yüz səhifə var.",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": "question_what",
+    "word": "what",
+    "translation": "nə",
+    "example": "What are you doing?",
+    "example_az": "Nə edirsən?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "question_who",
+    "word": "who",
+    "translation": "kim",
+    "example": "Who is that man near the door?",
+    "example_az": "Qapının yanındakı o kişi kimdir?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "question_when",
+    "word": "when",
+    "translation": "nə vaxt / nə zaman",
+    "example": "When do you go home?",
+    "example_az": "Evə nə vaxt gedirsən?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "question_why",
+    "word": "why",
+    "translation": "niyə / nə üçün",
+    "example": "Why are you late?",
+    "example_az": "Niyə gecikmisən?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "question_how",
+    "word": "how",
+    "translation": "necə",
+    "example": "How do you go to work?",
+    "example_az": "İşə necə gedirsən?",
+    "level": "A1",
+    "category": "questions"
+  },
+  {
+    "id": "food_apple_fruit",
+    "word": "fruit",
+    "translation": "meyvə",
+    "example": "Eating fresh fruit is healthy.",
+    "example_az": "Təzə meyvə yemək faydalıdır.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_vegetable",
+    "word": "vegetable",
+    "translation": "tərəvəz",
+    "example": "Buy some fresh vegetables.",
+    "example_az": "Bir az təzə tərəvəz al.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_meat",
+    "word": "meat",
+    "translation": "ət",
+    "example": "My father likes meat dishes.",
+    "example_az": "Atam ət xörəklərini sevir.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_chicken",
+    "word": "chicken",
+    "translation": "toyuq / toyuq əti",
+    "example": "We eat grilled chicken for lunch.",
+    "example_az": "Nahar üçün qızardılmış toyuq yeyirik.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_rice",
+    "word": "rice",
+    "translation": "düyü / plov",
+    "example": "I like fried rice with vegetables.",
+    "example_az": "Tərəvəzli qızardılmış düyünü sevirəm.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_soup",
+    "word": "soup",
+    "translation": "şorba / dovğa",
+    "example": "Hot soup is good in winter.",
+    "example_az": "İsti şorba qışda yaxşıdır.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_sugar",
+    "word": "sugar",
+    "translation": "qənd / şəkər",
+    "example": "Do you put sugar in your tea?",
+    "example_az": "Çayına şəkər tökürsən?",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "food_salt",
+    "word": "salt",
+    "translation": "duz",
+    "example": "Pass me the salt, please.",
+    "example_az": "Zəhmət olmasa duzu mənə ötürün.",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": "pronoun_i",
+    "word": "I",
+    "translation": "mən",
+    "example": "I live in Baku.",
+    "example_az": "Mən Bakıda yaşayıram.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_you",
+    "word": "you",
+    "translation": "sən / siz",
+    "example": "You are a good developer.",
+    "example_az": "Sən yaxşı tərtibatçısan.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_he",
+    "word": "he",
+    "translation": "o (kişi)",
+    "example": "He is my friend.",
+    "example_az": "O, mənim dostumdur.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_she",
+    "word": "she",
+    "translation": "o (qadın)",
+    "example": "She reads a book.",
+    "example_az": "O, kitab oxuyur.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_it",
+    "word": "it",
+    "translation": "o (cansız / heyvan)",
+    "example": "It is a beautiful car.",
+    "example_az": "O, gözəl maşındır.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_we",
+    "word": "we",
+    "translation": "biz",
+    "example": "We play football on Sundays.",
+    "example_az": "Biz bazar günləri futbol oynayırıq.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "pronoun_they",
+    "word": "they",
+    "translation": "onlar",
+    "example": "They are going home.",
+    "example_az": "Onlar evə gedirlər.",
+    "level": "A1",
+    "category": "grammar"
+  },
+  {
+    "id": "day_monday",
+    "word": "Monday",
+    "translation": "bazar ertəsi",
+    "example": "I start work on Monday.",
+    "example_az": "Mən işə bazar ertəsi başlayıram.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_tuesday",
+    "word": "Tuesday",
+    "translation": "çərşənbə axşamı",
+    "example": "We have a meeting on Tuesday.",
+    "example_az": "Çərşənbə axşamı görüşümüz var.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_wednesday",
+    "word": "Wednesday",
+    "translation": "çərşənbə",
+    "example": "Wednesday is the middle of the week.",
+    "example_az": "Çərşənbə həftənin ortasıdır.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_thursday",
+    "word": "Thursday",
+    "translation": "cümə axşamı",
+    "example": "I go to the gym on Thursday.",
+    "example_az": "Cümə axşamı idman zalına gedirəm.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_friday",
+    "word": "Friday",
+    "translation": "cümə",
+    "example": "Friday is my favorite day.",
+    "example_az": "Cümə mənim ən sevdiyim gündür.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_saturday",
+    "word": "Saturday",
+    "translation": "şənbə",
+    "example": "We relax on Saturday.",
+    "example_az": "Şənbə günü istirahət edirik.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "day_sunday",
+    "word": "Sunday",
+    "translation": "bazar günü",
+    "example": "Sunday is a quiet day.",
+    "example_az": "Bazar günü sakit bir gündür.",
+    "level": "A1",
+    "category": "calendar"
+  },
+  {
+    "id": "prep_in",
+    "word": "in",
+    "translation": "içində / -da / -də",
+    "example": "The keys are in the bag.",
+    "example_az": "Açarlar çantanın içindədir.",
+    "level": "A1",
+    "category": "prepositions"
+  },
+  {
+    "id": "prep_on",
+    "word": "on",
+    "translation": "üstündə",
+    "example": "The cup is on the table.",
+    "example_az": "Fincan masanın üstündədir.",
+    "level": "A1",
+    "category": "prepositions"
+  },
+  {
+    "id": "prep_under",
+    "word": "under",
+    "translation": "altında",
+    "example": "The cat is sleeping under the bed.",
+    "example_az": "Pişik çarpayının altında yatır.",
+    "level": "A1",
+    "category": "prepositions"
+  },
+  {
+    "id": "prep_next_to",
+    "word": "next to",
+    "translation": "yanında",
+    "example": "The shop is next to the bank.",
+    "example_az": "Mağaza bankın yanındadır.",
+    "level": "A1",
+    "category": "prepositions"
+  },
+  {
+    "id": "prep_between",
+    "word": "between",
+    "translation": "arasında",
+    "example": "Baku is between the hills and the sea.",
+    "example_az": "Bakı təpələr və dəniz arasındadır.",
+    "level": "A1",
+    "category": "prepositions"
+  },
+  {
+    "id": "conj_and",
+    "word": "and",
+    "translation": "və",
+    "example": "I like tea and coffee.",
+    "example_az": "Mən çay və qəhvə sevirəm.",
+    "level": "A1",
+    "category": "conjunctions"
+  },
+  {
+    "id": "conj_but",
+    "word": "but",
+    "translation": "amma / lakin",
+    "example": "I am tired, but I am happy.",
+    "example_az": "Mən yorğanam, amma xoşbəxtəm.",
+    "level": "A1",
+    "category": "conjunctions"
+  },
+  {
+    "id": "conj_or",
+    "word": "or",
+    "translation": "və ya / yoxsa",
+    "example": "Do you want tea or water?",
+    "example_az": "Çay istəyirsən, ya su?",
+    "level": "A1",
+    "category": "conjunctions"
+  },
+  {
+    "id": "word_yes",
+    "word": "yes",
+    "translation": "bəli / hə",
+    "example": "Yes, I understand.",
+    "example_az": "Bəli, başa düşürəm.",
+    "level": "A1",
+    "category": "basics"
+  },
+  {
+    "id": "word_no",
+    "word": "no",
+    "translation": "xeyr / yox",
+    "example": "No, I am not late.",
+    "example_az": "Xeyr, mən gecikməmişəm.",
+    "level": "A1",
+    "category": "basics"
+  },
+  {
+    "id": "word_please",
+    "word": "please",
+    "translation": "zəhmət olmasa / xahiş edirəm",
+    "example": "Help me, please.",
+    "example_az": "Zəhmət olmasa mənə kömək edin.",
+    "level": "A1",
+    "category": "basics"
+  },
+  {
+    "id": "word_thank_you",
+    "word": "thank you",
+    "translation": "təşəkkür edirəm / sağ olun",
+    "example": "Thank you for your help.",
+    "example_az": "Köməyiniz üçün sağ olun.",
+    "level": "A1",
+    "category": "basics"
+  },
+  {
+    "id": "word_sorry",
+    "word": "sorry",
+    "translation": "bağışlayın / təəssüf edirəm",
+    "example": "Sorry, I am late.",
+    "example_az": "Bağışlayın, gecikdim.",
+    "level": "A1",
+    "category": "basics"
+  },
+  {
+    "id": "verb_work_action",
+    "word": "work",
+    "translation": "işləmək",
+    "example": "I work in an office.",
+    "example_az": "Mən ofisdə işləyirəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_study",
+    "word": "study",
+    "translation": "təhsil almaq / öyrənmək",
+    "example": "We study English every day.",
+    "example_az": "Biz hər gün ingilis dili öyrənirik.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_play",
+    "word": "play",
+    "translation": "oynamaq",
+    "example": "Children play in the garden.",
+    "example_az": "Uşaqlar həyətdə oynayırlar.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_live",
+    "word": "live",
+    "translation": "yaşamaq",
+    "example": "Where do you live?",
+    "example_az": "Harada yaşayırsan?",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_drive",
+    "word": "drive",
+    "translation": "sürmək (maşın)",
+    "example": "I drive a car to work.",
+    "example_az": "İşə maşın sürürəm.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_ride",
+    "word": "ride",
+    "translation": "minmək / sürmək (velosiped, motosiklet)",
+    "example": "He can ride a bicycle.",
+    "example_az": "O, velosiped sürə bilir.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_cook",
+    "word": "cook",
+    "translation": "yemək bişirmək",
+    "example": "She cooks dinner for the family.",
+    "example_az": "O, ailə üçün şam yeməyi bişirir.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_wash",
+    "word": "wash",
+    "translation": "yumaq",
+    "example": "I wash my car on Saturdays.",
+    "example_az": "Şənbə günləri maşınımı yuyuram.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_clean",
+    "word": "clean",
+    "translation": "təmizləmək",
+    "example": "They clean the room together.",
+    "example_az": "Onlar otağı birlikdə təmizləyirlər.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_open_action",
+    "word": "open",
+    "translation": "açmaq",
+    "example": "Open the door, please.",
+    "example_az": "Zəhmət olmasa qapını açın.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_close_action",
+    "word": "close",
+    "translation": "bağlamaq",
+    "example": "Close your eyes.",
+    "example_az": "Gözlərini bağla.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_wait",
+    "word": "wait",
+    "translation": "gözləmək",
+    "example": "Wait for me at the station.",
+    "example_az": "Məni stansiyada gözlə.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "verb_call",
+    "word": "call",
+    "translation": "zəng etmək / çağırmaq",
+    "example": "Call me in the evening.",
+    "example_az": "Axşam mənə zəng et.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "id": "adj_warm",
+    "word": "warm",
+    "translation": "ılıq / isti",
+    "example": "Spring weather is warm.",
+    "example_az": "Yaz havası ılıq olur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_cool",
+    "word": "cool",
+    "translation": "sərin",
+    "example": "Autumn evenings are cool.",
+    "example_az": "Payız axşamları sərin olur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_full",
+    "word": "full",
+    "translation": "dolu / tox",
+    "example": "The glass is full of water.",
+    "example_az": "Stəkan su ilə doludur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_empty",
+    "word": "empty",
+    "translation": "boş",
+    "example": "The street is empty at night.",
+    "example_az": "Gecə vaxtı küçə boşdur.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_heavy",
+    "word": "heavy",
+    "translation": "ağır",
+    "example": "This box is very heavy.",
+    "example_az": "Bu qutu çox ağırdır.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_light_weight",
+    "word": "light",
+    "translation": "yüngül",
+    "example": "My bag is light today.",
+    "example_az": "Çantam bu gün yüngüldür.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_quiet",
+    "word": "quiet",
+    "translation": "sakit",
+    "example": "The library is a quiet place.",
+    "example_az": "Kitabxana sakit bir yerdir.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "adj_noisy",
+    "word": "noisy",
+    "translation": "səs-küylü",
+    "example": "The city center is noisy.",
+    "example_az": "Şəhər mərkəzi səs-küylüdür.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "id": "place_hospital",
+    "word": "hospital",
+    "translation": "xəstəxana",
+    "example": "The doctor works in a hospital.",
+    "example_az": "Həkim xəstəxanada işləyir.",
+    "level": "A1",
+    "category": "places"
+  },
+  {
+    "id": "place_bank",
+    "word": "bank",
+    "translation": "bank",
+    "example": "I need to go to the bank.",
+    "example_az": "Bankab getməliyəm.",
+    "level": "A1",
+    "category": "places"
+  }
+]

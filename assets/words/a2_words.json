@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "achieve",
+    "word": "achieve",
+    "translation": "nail olmaq / əldə etmək",
+    "example": "He worked hard to achieve his goal.",
+    "example_az": "O, məqsədinə nail olmaq üçün çox çalışdı.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "advice",
+    "word": "advice",
+    "translation": "məsləhət",
+    "example": "Can you give me some good advice?",
+    "example_az": "Mənə yaxşı bir məsləhət verə bilərsən?",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "allow",
+    "word": "allow",
+    "translation": "icazə vermək",
+    "example": "My boss does not allow using phones during meetings.",
+    "example_az": "Rəisim iclaslar zamanı telefondan istifadə etməyə icazə vermir.",
+    "level": "A2",
+    "category": "rules"
+  },
+  {
+    "id": "already",
+    "word": "already",
+    "translation": "artıq / çoxdan",
+    "example": "I have already finished my work.",
+    "example_az": "Mən artıq işimi bitirmişəm.",
+    "level": "A2",
+    "category": "time"
+  },
+  {
+    "id": "although",
+    "word": "although",
+    "translation": "baxmayaraq ki",
+    "example": "Although it was raining, we went for a walk.",
+    "example_az": "Yağış yağmasına baxmayaraq, gəzməyə getdik.",
+    "level": "A2",
+    "category": "conjunctions"
+  },
+  {
+    "id": "amount",
+    "word": "amount",
+    "translation": "məbləğ / miqdar",
+    "example": "A large amount of money was spent.",
+    "example_az": "Böyük məbləğdə pul xərcləndi.",
+    "level": "A2",
+    "category": "finance"
+  },
+  {
+    "id": "announce",
+    "word": "announce",
+    "translation": "elan etmək / bildirmək",
+    "example": "They will announce the results tomorrow.",
+    "example_az": "Nəticələri sabah elan edəcəklər.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "apartment",
+    "word": "apartment",
+    "translation": "mənzil",
+    "example": "They rented a new apartment in the city center.",
+    "example_az": "Onlar şəhər mərkəzində yeni bir mənzil kiraladılar.",
+    "level": "A2",
+    "category": "home"
+  },
+  {
+    "id": "appointment",
+    "word": "appointment",
+    "translation": "görüş / təyinat (həkim və s.)",
+    "example": "I have a doctor's appointment at three o'clock.",
+    "example_az": "Saat üçdə həkim qəbulum (görüşüm) var.",
+    "level": "A2",
+    "category": "health"
+  },
+  {
+    "id": "arrange",
+    "word": "arrange",
+    "translation": "təşkil etmək / səliqəyə salmaq",
+    "example": "We need to arrange a quick meeting.",
+    "example_az": "Qısamüddətli bir iclas təşkil etməliyik.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "arrive",
+    "word": "arrive",
+    "translation": "çatmaq / gəlib çıxmaq",
+    "example": "What time does the train arrive?",
+    "example_az": "Qatar saat neçədə çatır?",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "available",
+    "word": "available",
+    "translation": "əlçatan / mövcud / boş",
+    "example": "Is this room available for tonight?",
+    "example_az": "Bu otaq bu gecə üçün boşdur?",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "borrow",
+    "word": "borrow",
+    "translation": "borc almaq / götürmək",
+    "example": "Can I borrow your laptop for an hour?",
+    "example_az": "Kompüterinizi bir saatlığa götürə bilərəm?",
+    "level": "A2",
+    "category": "basics"
+  },
+  {
+    "id": "cancel",
+    "word": "cancel",
+    "translation": "ləğv etmək",
+    "example": "They had to cancel the flight due to bad weather.",
+    "example_az": "Pis hava şəraitinə görə reysi ləğv etməli oldular.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "career",
+    "word": "career",
+    "translation": "karyera",
+    "example": "She wants to build a career in software development.",
+    "example_az": "O, proqram təminatı sahəsində karyera qurmaq istəyir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "compare",
+    "word": "compare",
+    "translation": "müqayisə etmək",
+    "example": "Don't compare yourself with others.",
+    "example_az": "Özünü başqaları ilə müqayisə etmə.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "complain",
+    "word": "complain",
+    "translation": "şikayətlənmək",
+    "example": "Customers always complain about late service.",
+    "example_az": "Müştərilər həmişə gecikən xidmətdən şikayətlənirlər.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "confirm",
+    "word": "confirm",
+    "translation": "təsdiqləmək",
+    "example": "Please confirm your email address.",
+    "example_az": "Zəhmət olmasa e-poçt ünvanınızı təsdiqləyin.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "continue",
+    "word": "continue",
+    "translation": "davam etmək",
+    "example": "Let's continue our lesson after the break.",
+    "example_az": "Fasilədən sonra dərsimizə davam edək.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "decision",
+    "word": "decision",
+    "translation": "qərar",
+    "example": "Making a final decision takes time.",
+    "example_az": "Yekun qərar vermək vaxt tələb edir.",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "describe",
+    "word": "describe",
+    "translation": "təsvir etmək",
+    "example": "Can you describe the main problem?",
+    "example_az": "Əsas problemi təsvir edə bilərsiniz?",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "destroy",
+    "word": "destroy",
+    "translation": "məhv etmək / dağıtmaq",
+    "example": "The strong storm destroyed several houses.",
+    "example_az": "Güclü fırtına bir neçə evi məhv etdi.",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": "disappear",
+    "word": "disappear",
+    "translation": "qeyb olmaq / yoxa çıxmaq",
+    "example": "The sun disappeared behind the dark clouds.",
+    "example_az": "Günəş tünd buludların arxasında yoxa çıxdı.",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": "discover",
+    "word": "discover",
+    "translation": "kəşf etmək / tapmaq",
+    "example": "Scientists discovered a new species of fish.",
+    "example_az": "Alimlər yeni balıq növü kəşf etdilər.",
+    "level": "A2",
+    "category": "science"
+  },
+  {
+    "id": "education",
+    "word": "education",
+    "translation": "təhsil",
+    "example": "Education opens doors to many opportunities.",
+    "example_az": "Təhsil bir çox imkanlara qapı açır.",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": "effective",
+    "word": "effective",
+    "translation": "effektiv / səmərəli",
+    "example": "This solution is simple and effective.",
+    "example_az": "Bu həll yolu sadə və effektivdir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "equipment",
+    "word": "equipment",
+    "translation": "avadanlıq / təchizat",
+    "example": "They bought new sports equipment.",
+    "example_az": "Onlar yeni idman avadanlığı aldılar.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "experience",
+    "word": "experience",
+    "translation": "təcrübə",
+    "example": "He has five years of experience in this field.",
+    "example_az": "Onun bu sahədə beş illik təcrübəsi var.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "explain",
+    "word": "explain",
+    "translation": "izah etmək / başa salmaq",
+    "example": "The teacher will explain the rule again.",
+    "example_az": "Müəllim qaydanı yenidən izah edəcək.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "furniture",
+    "word": "furniture",
+    "translation": "mebel",
+    "example": "We need to buy new wooden furniture.",
+    "example_az": "Biz yeni taxta mebel almalıyıq.",
+    "level": "A2",
+    "category": "home"
+  },
+  {
+    "id": "improvement",
+    "word": "improvement",
+    "translation": "inkişaf / təkmilləşmə",
+    "example": "There is a big improvement in your English.",
+    "example_az": "İngilis dilinizdə böyük inkişaf var.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "include",
+    "word": "include",
+    "translation": "daxil etmək / ibarət olmaq",
+    "example": "Does the price include breakfast?",
+    "example_az": "Qiymətə səhər yeməyi daxildir?",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "increase",
+    "word": "increase",
+    "translation": "artırmaq / artmaq",
+    "example": "The company wants to increase sales this year.",
+    "example_az": "Şirkət bu il satışları artırmaq istəyir.",
+    "level": "A2",
+    "category": "business"
+  },
+  {
+    "id": "invitation",
+    "word": "invitation",
+    "translation": "dəvət",
+    "example": "Thank you for the birthday invitation.",
+    "example_az": "Ad günü dəvəti üçün təşəkkür edirəm.",
+    "level": "A2",
+    "category": "social"
+  },
+  {
+    "id": "journey",
+    "word": "journey",
+    "translation": "səyahət / uzun yol",
+    "example": "It was a long and tiring train journey.",
+    "example_az": "Uzun və yorucu bir qatar səyahəti idi.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "manage",
+    "word": "manage",
+    "translation": "idarə etmək / öhdəsindən gəlmək",
+    "example": "She manages a team of ten people.",
+    "example_az": "O, on nəfərlik komandanı idarə edir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "necessary",
+    "word": "necessary",
+    "translation": "zəruri / vacib",
+    "example": "It is necessary to wear a helmet.",
+    "example_az": "Dəbilqə taxmaq zəruridir.",
+    "level": "A2",
+    "category": "rules"
+  },
+  {
+    "id": "opportunity",
+    "word": "opportunity",
+    "translation": "imkan / fürsət",
+    "example": "This job is a great career opportunity.",
+    "example_az": "Bu iş əla karyera fürsətidir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "prepare",
+    "word": "prepare",
+    "translation": "hazırlamaq / hazırlaşmaq",
+    "example": "We need time to prepare for the test.",
+    "example_az": "İmtahana hazırlaşmaq üçün bizə vaxt lazımdır.",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": "prevent",
+    "word": "prevent",
+    "translation": "qarşısını almaq / mane olmaq",
+    "example": "Good health habits prevent diseases.",
+    "example_az": "Yaxşı sağlamlıq vərdişləri xəstəliklərin qarşısını alır.",
+    "level": "A2",
+    "category": "health"
+  },
+  {
+    "id": "receive",
+    "word": "receive",
+    "translation": "qəbul etmək / almaq",
+    "example": "I received an important email today.",
+    "example_az": "Bu gün vacib bir e-poçt aldım.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "recommend",
+    "word": "recommend",
+    "translation": "tövsiyə etmək",
+    "example": "Which restaurant do you recommend?",
+    "example_az": "Hansı restoranı tövsiyə edirsiniz?",
+    "level": "A2",
+    "category": "food"
+  },
+  {
+    "id": "refuse",
+    "word": "refuse",
+    "translation": "imtina etmək / rədd etmək",
+    "example": "He refused to answer the personal question.",
+    "example_az": "O, şəxsi suala cavab verməkdən imtina etdi.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "schedule",
+    "word": "schedule",
+    "translation": "cədvəl / qrafik",
+    "example": "Check the train schedule before leaving.",
+    "example_az": "Evdən çıxmazdan əvvəl qatar cədvəlini yoxlayın.",
+    "level": "A2",
+    "category": "time"
+  },
+  {
+    "id": "solution",
+    "word": "solution",
+    "translation": "həll / çarə",
+    "example": "We found a simple solution to the problem.",
+    "example_az": "Problemə sadə bir həll yolu tapdıq.",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "suggest",
+    "word": "suggest",
+    "translation": "təklif etmək",
+    "example": "I suggest taking a short walk outside.",
+    "example_az": "Kənarda qısa bir gəzintiyə çıxmağı təklif edirəm.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "suitable",
+    "word": "suitable",
+    "translation": "uyğun / münasib",
+    "example": "This jacket is suitable for cold weather.",
+    "example_az": "Bu gödəkçə soyuq hava üçün uyğundur.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "travel_ticket",
+    "word": "ticket",
+    "translation": "bilet",
+    "example": "I booked two tickets for the concert.",
+    "example_az": "Konsert üçün iki bilet bron etdim.",
+    "level": "A2",
+    "category": "leisure"
+  },
+  {
+    "id": "valuable",
+    "word": "valuable",
+    "translation": "dəyərli / qiymətli",
+    "example": "Time is the most valuable thing we have.",
+    "example_az": "Vaxt bizim sahib olduğumuz ən dəyərli şeydir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "various",
+    "word": "various",
+    "translation": "müxtəlif / cürbəcür",
+    "example": "There are various ways to solve this task.",
+    "example_az": "Bu tapşırığı həll etməyin müxtəlif yolları var.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "accept",
+    "word": "accept",
+    "translation": "qəbul etmək / razılaşmaq",
+    "example": "He decided to accept the job offer.",
+    "example_az": "O, iş təklifini qəbul etməyə qərar verdi.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "accident",
+    "word": "accident",
+    "translation": "qəza / bədbəxt hadisə",
+    "example": "Drive carefully to avoid an accident.",
+    "example_az": "Qəzadan qaçınmaq üçün ehtiyatla sürün.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "accommodation",
+    "word": "accommodation",
+    "translation": "qalacaq yer / mənzil",
+    "example": "We need to find cheap accommodation for the trip.",
+    "example_az": "Səyahət üçün ucuz qalacaq yer tapmalıyıq.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "action",
+    "word": "action",
+    "translation": "hərəkət / fəaliyyət",
+    "example": "We need quick action to fix this issue.",
+    "example_az": "Bu problemi həll etmək üçün tez hərəkət etməliyik.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "activity",
+    "word": "activity",
+    "translation": "fəaliyyət / məşğuliyyət",
+    "example": "Swimming is a popular outdoor activity.",
+    "example_az": "Üzgüçülük açıq havada populyar bir məşğuliyyətdir.",
+    "level": "A2",
+    "category": "leisure"
+  },
+  {
+    "id": "afford",
+    "word": "afford",
+    "translation": "pulu çatmaq / imkanı olmaq",
+    "example": "I cannot afford to buy a new car right now.",
+    "example_az": "İndiki məqamda yeni maşın almağa imkanım çatmır.",
+    "level": "A2",
+    "category": "finance"
+  },
+  {
+    "id": "agree",
+    "word": "agree",
+    "translation": "razılaşmaq",
+    "example": "I agree with your suggestion.",
+    "example_az": "Sənin təklifinlə razılaşıram.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "atmosphere",
+    "word": "atmosphere",
+    "translation": "atmosfer / mühit",
+    "example": "The cafe has a warm and friendly atmosphere.",
+    "example_az": "Kafenin səmimi və dostyana mühiti var.",
+    "level": "A2",
+    "category": "places"
+  },
+  {
+    "id": "attend",
+    "word": "attend",
+    "translation": "iştirak etmək / getmək",
+    "example": "Many developers will attend the conference.",
+    "example_az": "Çoxlu tərtibatçı konfransda iştirak edəcək.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "attract",
+    "word": "attract",
+    "translation": "cəlb etmək",
+    "example": "The exhibition attracts many visitors every year.",
+    "example_az": "Sərgi hər il çoxlu ziyarətçi cəlb edir.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "avoid",
+    "word": "avoid",
+    "translation": "yayınmaq / qaçınmaq",
+    "example": "Try to avoid heavy traffic in the morning.",
+    "example_az": "Səhər saatlarında sıx tıxacdan qaçınmağa çalışın.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "behavior",
+    "word": "behavior",
+    "translation": "davranış / rəftar",
+    "example": "His professional behavior impressed everyone.",
+    "example_az": "Ona peşəkar davranışı hər kəsi heyran etdi.",
+    "level": "A2",
+    "category": "social"
+  },
+  {
+    "id": "belong",
+    "word": "belong",
+    "translation": "aid olmaq",
+    "example": "Does this helmet belong to you?",
+    "example_az": "Bu dəbilqə sənə aitdir?",
+    "level": "A2",
+    "category": "basics"
+  },
+  {
+    "id": "benefit",
+    "word": "benefit",
+    "translation": "fayda / xeyir",
+    "example": "Regular exercise brings many health benefits.",
+    "example_az": "Müntəzəm idman çoxlu sağlamlıq faydası gətirir.",
+    "level": "A2",
+    "category": "health"
+  },
+  {
+    "id": "business",
+    "word": "business",
+    "translation": "biznes / iş",
+    "example": "They started a small tech business together.",
+    "example_az": "Onlar birlikdə kiçik bir texnologiya biznesi başladılar.",
+    "level": "A2",
+    "category": "business"
+  },
+  {
+    "id": "challenge",
+    "word": "challenge",
+    "translation": "sınaq / çətin tapşırıq",
+    "example": "Solving this bug was a great challenge.",
+    "example_az": "Bu xətanı aradan qaldırmaq böyük bir sınaq idi.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "charge",
+    "word": "charge",
+    "translation": "zaryatka yığmaq / ödəniş tələb etmək",
+    "example": "I need to charge my battery.",
+    "example_az": "Batareyamı zaryatkaya qoymalıyam.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "choice",
+    "word": "choice",
+    "translation": "seçim",
+    "example": "You have to make a choice now.",
+    "example_az": "İndi bir seçim etməlisən.",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "collect",
+    "word": "collect",
+    "translation": "toplamaq / yığmaq",
+    "example": "We need to collect the relevant data.",
+    "example_az": "Lazımi məlumatları toplamalıyıq.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "comfortable",
+    "word": "comfortable",
+    "translation": "rahat / əlverişli",
+    "example": "These shoes are very comfortable for walking.",
+    "example_az": "Bu ayaqqabılar gəzmək üçün çox rahatdır.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "connect",
+    "word": "connect",
+    "translation": "qoşulmaq / əlaqələndirmək",
+    "example": "Please connect your device to Wi-Fi.",
+    "example_az": "Zəhmət olmasa cihazınızı Wi-Fi-a qoşun.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "consider",
+    "word": "consider",
+    "translation": "nəzərə almaq / nəzərdən keçirmək",
+    "example": "We should consider all options.",
+    "example_az": "Bütün variantları nəzərdən keçirməliyik.",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "create",
+    "word": "create",
+    "translation": "yaratmaq / tərtib etmək",
+    "example": "The app allows users to create custom lists.",
+    "example_az": "Tətbiq istifadəçilərə xüsusi siyahılar yaratmağa imkan verir.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "crowded",
+    "word": "crowded",
+    "translation": "basırıq / adamla dolu",
+    "example": "The metro is usually crowded during peak hours.",
+    "example_az": "Pik saatlarda metro adətən basırıq olur.",
+    "level": "A2",
+    "category": "places"
+  },
+  {
+    "id": "customer",
+    "word": "customer",
+    "translation": "müştəri",
+    "example": "The support team is answering customer requests.",
+    "example_az": "Dəstək komandası müştəri sorğularını cavablandırır.",
+    "level": "A2",
+    "category": "business"
+  },
+  {
+    "id": "damage",
+    "word": "damage",
+    "translation": "zərər vurmaq / zədələmək",
+    "example": "Heavy rain can damage the roads.",
+    "example_az": "Güclü yağış yollara zərər vura bilər.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "delay",
+    "word": "delay",
+    "translation": "gecikdirmək / təxirə salmaq",
+    "example": "Bad weather caused a delay in the schedule.",
+    "example_az": "Pis hava cədvəldə gecikməyə səbəb oldu.",
+    "level": "A2",
+    "category": "time"
+  },
+  {
+    "id": "deliver",
+    "word": "deliver",
+    "translation": "çatdırmaq / təhvil vermək",
+    "example": "They will deliver the package tomorrow morning.",
+    "example_az": "Bağlamanı sabah səhər çatdıracaqlar.",
+    "level": "A2",
+    "category": "business"
+  },
+  {
+    "id": "department",
+    "word": "department",
+    "translation": "şöbə / bölmə",
+    "example": "He works in the software engineering department.",
+    "example_az": "O, proqram mühəndisliyi şöbəsində çalışır.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "depend",
+    "word": "depend",
+    "translation": "asılı olmaq",
+    "example": "Our plans depend on the weather.",
+    "example_az": "Planlarımız havadan asılıdır.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "design",
+    "word": "design",
+    "translation": "dizayn etmək / layihələndirmək",
+    "example": "They design modern mobile interfaces.",
+    "example_az": "Onlar müasir mobil interfeyslər dizayn edirlər.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "detail",
+    "word": "detail",
+    "translation": "detal / təfərrüat",
+    "example": "Pay attention to every small detail.",
+    "example_az": "Hər kiçik detala diqqət yetirin.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "develop",
+    "word": "develop",
+    "translation": "inkişaf etdirmək / hazırlamaq",
+    "example": "Engineers continue to develop new features.",
+    "example_az": "Mühəndislər yeni funksiyalar hazırlamağa davam edirlər.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "difference",
+    "word": "difference",
+    "translation": "fərq",
+    "example": "What is the difference between these two versions?",
+    "example_az": "Bu iki versiya arasındakı fərq nədir?",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "direction",
+    "word": "direction",
+    "translation": "istiqamət",
+    "example": "Follow the signs for the correct direction.",
+    "example_az": "Düzgün istiqamət üçün nişanları izləyin.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "discuss",
+    "word": "discuss",
+    "translation": "müzakirə etmək",
+    "example": "We need to discuss the project details.",
+    "example_az": "Layihə təfərrüatlarını müzakirə etməliyik.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "distance",
+    "word": "distance",
+    "translation": "məsafə",
+    "example": "The distance between the two cities is short.",
+    "example_az": "İki şəhər arasındakı məsafə qısadır.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "encourage",
+    "word": "encourage",
+    "translation": "həvəsləndirmək / ruhlandırmaq",
+    "example": "Teachers always encourage students to read more.",
+    "example_az": "Müəllimlər həmişə tələbələri daha çox oxumağa həvəsləndirirlər.",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": "event",
+    "word": "event",
+    "translation": "tədbir / hadisə",
+    "example": "The stadium hosted a major sports event.",
+    "example_az": "Stadion böyük bir idman tədbirinə ev sahibliyi etdi.",
+    "level": "A2",
+    "category": "leisure"
+  },
+  {
+    "id": "exactly",
+    "word": "exactly",
+    "translation": "dəqiq / tamamilə",
+    "example": "This is exactly what I wanted.",
+    "example_az": "Bu tam olaraq mənim istədiyim şeydir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "expensive",
+    "word": "expensive",
+    "translation": "baha / bahalı",
+    "example": "Fuel prices are quite expensive now.",
+    "example_az": "Yanacaq qiymətləri indi kifayət qədər bahadır.",
+    "level": "A2",
+    "category": "finance"
+  },
+  {
+    "id": "feature",
+    "word": "feature",
+    "translation": "xüsusiyyət / funksiya",
+    "example": "This new model has an excellent safety feature.",
+    "example_az": "Bu yeni modelin əla təhlükəsizlik xüsusiyyəti var.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "fix",
+    "word": "fix",
+    "translation": "təmir etmək / düzəltmək",
+    "example": "The mechanic will fix the car engine.",
+    "example_az": "Usta maşının mühərrikini təmir edəcək.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "flight",
+    "word": "flight",
+    "translation": "uçuş / reys",
+    "example": "Our flight lands in two hours.",
+    "example_az": "Reysimiz iki saatdan sonra enir.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "improve",
+    "word": "improve",
+    "translation": "yaxşılaşdırmaq / inkişaf etdirmək",
+    "example": "Practice daily to improve your skills.",
+    "example_az": "Bacarıqlarınızı inkişaf etdirmək üçün hər gün məşq edin.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "inform",
+    "word": "inform",
+    "translation": "məlumat vermək / xəbərdar etmək",
+    "example": "Please inform us if your plans change.",
+    "example_az": "Planlarınız dəyişərsə, zəhmət olmasa bizə məlumat verin.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "join",
+    "word": "join",
+    "translation": "qoşulmaq / qatılmaq",
+    "example": "Would you like to join our football match?",
+    "example_az": "Bizim futbol oyunumuza qatılmaq istərdiniz?",
+    "level": "A2",
+    "category": "social"
+  },
+  {
+    "id": "protect",
+    "word": "protect",
+    "translation": "qorumaq",
+    "example": "Wear a helmet to protect your head.",
+    "example_az": "Başınızı qorumaq üçün dəbilqə taxın.",
+    "level": "A2",
+    "category": "rules"
+  },
+  {
+    "id": "reduce",
+    "word": "reduce",
+    "translation": "azaltmaq",
+    "example": "We should reduce energy consumption.",
+    "example_az": "Enerji istehlakını azaltmalıyıq.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "require",
+    "word": "require",
+    "translation": "tələb etmək / ehtiyacı olmaq",
+    "example": "This task requires attention and patience.",
+    "example_az": "Bu tapşırıq diqqət və səbir tələb edir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "advice_give",
+    "word": "advise",
+    "translation": "məsləhət görmək",
+    "example": "Doctors advise getting enough rest.",
+    "example_az": "Həkimlər kifayət qədər istirahət etməyi məsləhət görürlər.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "agree_disagree",
+    "word": "disagree",
+    "translation": "razılaşmamaq",
+    "example": "I disagree with that statement.",
+    "example_az": "Mən bu fikir ilə razılaşmıram.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "airport",
+    "word": "airport",
+    "translation": "hava limanı",
+    "example": "We arrived at the airport two hours early.",
+    "example_az": "Biz hava limanına iki saat əvvəl çatdıq.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "annoying",
+    "word": "annoying",
+    "translation": "zəhlətökən / bezdirici",
+    "example": "Loud background noise can be very annoying.",
+    "example_az": "Bərk arxa fon səs-küyü çox bezdirici ola bilər.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "anxious",
+    "word": "anxious",
+    "translation": "narahat / həyəcanlı",
+    "example": "He felt anxious before the presentation.",
+    "example_az": "O, təqdimatdan əvvəl narahat hiss edirdi.",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": "attention",
+    "word": "attention",
+    "translation": "diqqət",
+    "example": "Pay attention to the safety rules.",
+    "example_az": "Təhlükəsizlik qaydalarına diqqət yetirin.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "author",
+    "word": "author",
+    "translation": "müəllif",
+    "example": "Who is the author of this book?",
+    "example_az": "Bu kitabın müəllifi kimdir?",
+    "level": "A2",
+    "category": "art"
+  },
+  {
+    "id": "average",
+    "word": "average",
+    "translation": "orta / ortalama",
+    "example": "The average temperature in summer is high.",
+    "example_az": "Yazda (yayda) ortalama temperatur yüksək olur.",
+    "level": "A2",
+    "category": "math"
+  },
+  {
+    "id": "background",
+    "word": "background",
+    "translation": "arxa fon / keçmiş",
+    "example": "He runs background tasks efficiently.",
+    "example_az": "O, arxa fon tapşırıqlarını səmərəli şəkildə icra edir.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "battery",
+    "word": "battery",
+    "translation": "batareya / zaryatka",
+    "example": "My phone battery level is low.",
+    "example_az": "Telefonumun batareya səviyyəsi aşağıdır.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "breathe",
+    "word": "breathe",
+    "translation": "nəfəs almaq",
+    "example": "Take a deep breath and relax.",
+    "example_az": "Dərin nəfəs alın və rahatlaşın.",
+    "level": "A2",
+    "category": "health"
+  },
+  {
+    "id": "budget",
+    "word": "budget",
+    "translation": "büdcə",
+    "example": "We need to plan our monthly budget.",
+    "example_az": "Aylıq büdcəmizi planlaşdırmalıyıq.",
+    "level": "A2",
+    "category": "finance"
+  },
+  {
+    "id": "candidate",
+    "word": "candidate",
+    "translation": "namizəd",
+    "example": "She is a strong candidate for the job.",
+    "example_az": "O, bu iş üçün güclü bir namizəddir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "certain",
+    "word": "certain",
+    "translation": "əmin / müəyyən",
+    "example": "Are you certain about this time?",
+    "example_az": "Bu vaxt haqqında əminsiniz?",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "climate",
+    "word": "climate",
+    "translation": "iqlim",
+    "example": "The climate in this region is very dry.",
+    "example_az": "Bu bölgənin iqlimi çox quraqdır.",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": "competition",
+    "word": "competition",
+    "translation": "yarışma / rəqabət",
+    "example": "He won first place in the programming competition.",
+    "example_az": "O, proqramlaşdırma yarışmasında birinci yeri tutdu.",
+    "level": "A2",
+    "category": "leisure"
+  },
+  {
+    "id": "complicated",
+    "word": "complicated",
+    "translation": "mürəkkəb / qəliz",
+    "example": "This code structure is too complicated.",
+    "example_az": "Bu kod strukturu çox mürəkkəbdir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "condition",
+    "word": "condition",
+    "translation": "vəziyyət / şərt",
+    "example": "The car is in excellent mechanical condition.",
+    "example_az": "Maşın əla mexaniki vəziyyətdədir.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "connect_connection",
+    "word": "connection",
+    "translation": "əlaqə / qoşulma",
+    "example": "Check your internet connection.",
+    "example_az": "İnternet əlaqənizi yoxlayın.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "contact",
+    "word": "contact",
+    "translation": "əlaqə saxlamaq / kontakt",
+    "example": "Feel free to contact me via email.",
+    "example_az": "E-poçt vasitəsilə mənimlə əlaqə saxlaya bilərsiniz.",
+    "level": "A2",
+    "category": "communication"
+  },
+  {
+    "id": "convenient",
+    "word": "convenient",
+    "translation": "əlverişli / rahat",
+    "example": "Online banking is very convenient.",
+    "example_az": "Onlayn bankçılıq çox əlverişlidir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "cost",
+    "word": "cost",
+    "translation": "başa gəlmək / dəyər",
+    "example": "How much does the repair cost?",
+    "example_az": "Təmir neçəyə başa gəlir?",
+    "level": "A2",
+    "category": "finance"
+  },
+  {
+    "id": "custom",
+    "word": "custom",
+    "translation": "xüsusi / fərdi (və ya adət-ənənə)",
+    "example": "You can add custom components to the app.",
+    "example_az": "Tətbiqə xüsusi komponentlər əlavə edə bilərsiniz.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "daily",
+    "word": "daily",
+    "translation": "gündəlik",
+    "example": "Walking is part of my daily routine.",
+    "example_az": "Gəzinti mənim gündəlik rejimimin bir hissəsidir.",
+    "level": "A2",
+    "category": "time"
+  },
+  {
+    "id": "destination",
+    "word": "destination",
+    "translation": "təyinat yeri / gediləcək yer",
+    "example": "We reached our destination after three hours.",
+    "example_az": "Üç saatdan sonra təyinat yerimizə çatdıq.",
+    "level": "A2",
+    "category": "travel"
+  },
+  {
+    "id": "device",
+    "word": "device",
+    "translation": "cihaz / qurğu",
+    "example": "Restart your mobile device.",
+    "example_az": "Mobil cihazınızı yenidən başladın.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "download",
+    "word": "download",
+    "translation": "yükləmək (fayl)",
+    "example": "Download the latest version of the app.",
+    "example_az": "Tətbiqin son versiyasını yükləyin.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "efficient",
+    "word": "efficient",
+    "translation": "səmərəli / effektiv",
+    "example": "This modern engine is fuel efficient.",
+    "example_az": "Bu müasir mühərrik yanacağa səmərəlidir.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "entertain",
+    "word": "entertain",
+    "translation": "əyləndirmək",
+    "example": "The game is designed to entertain players.",
+    "example_az": "Oyun oyunçuları əyləndirmək üçün dizayn edilib.",
+    "level": "A2",
+    "category": "leisure"
+  },
+  {
+    "id": "environment",
+    "word": "environment",
+    "translation": "ətraf muhit",
+    "example": "We must protect the natural environment.",
+    "example_az": "Təbii ətraf mühiti qorumalıyıq.",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": "essential",
+    "word": "essential",
+    "translation": "mütləq / vacib",
+    "example": "Water is essential for all living things.",
+    "example_az": "Su bütün canlılar üçün mütləqdir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "expert",
+    "word": "expert",
+    "translation": "mütəxəssis / ekspert",
+    "example": "He is an expert in software architecture.",
+    "example_az": "O, proqram təminatı memarlığı üzrə mütəxəssisdir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "failure",
+    "word": "failure",
+    "translation": "uğursuzluq / xəta",
+    "example": "Failure is part of the learning process.",
+    "example_az": "Uğursuzluq öyrənmə prosesinin bir hissəsidir.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "foreign",
+    "word": "foreign",
+    "translation": "xarici / özgə",
+    "example": "Learning a foreign language requires practice.",
+    "example_az": "Xarici dil öyrənmək məşq tələb edir.",
+    "level": "A2",
+    "category": "education"
+  },
+  {
+    "id": "frequent",
+    "word": "frequent",
+    "translation": "tez-tez olan / tez-tez",
+    "example": "He makes frequent trips to the city center.",
+    "example_az": "O, şəhər mərkəzinə tez-tez səfərlər edir.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "habit",
+    "word": "habit",
+    "translation": "vərdiş",
+    "example": "Reading daily is a healthy habit.",
+    "example_az": "Hər gün oxumaq sağlam bir vərdişdir.",
+    "level": "A2",
+    "category": "health"
+  },
+  {
+    "id": "identify",
+    "word": "identify",
+    "translation": "müəyyən etmək / tanımaq",
+    "example": "Can you identify the error in this line?",
+    "example_az": "Bu sətirdəki xətanı müəyyən edə bilərsiniz?",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "imagine",
+    "word": "imagine",
+    "translation": "təsəvvür etmək",
+    "example": "Imagine living near the sea.",
+    "example_az": "Dəniz kənarında yaşadığınızı təsəvvür edin.",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "instruction",
+    "word": "instruction",
+    "translation": "təlimat / göstəriş",
+    "example": "Follow the instruction carefully.",
+    "example_az": "Təlimatı diqqətlə izləyin.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "location",
+    "word": "location",
+    "translation": "məkan / yer",
+    "example": "Enable your location settings on the phone.",
+    "example_az": "Telefondakı məkan tənzimləmələrinizi aktivləşdirin.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "method",
+    "word": "method",
+    "translation": "metod / üsul",
+    "example": "This is a fast method to process data.",
+    "example_az": "Bu, məlumatları emal etmək üçün sürətli bir metoddur.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "notice",
+    "word": "notice",
+    "translation": "fərqinə varmaq / diqqət yetirmək",
+    "example": "Did you notice any change in performance?",
+    "example_az": "Məhsuldarlıqda hər hansı bir dəyişikliyin fərqinə vardınız?",
+    "level": "A2",
+    "category": "thought"
+  },
+  {
+    "id": "option",
+    "word": "option",
+    "translation": "seçim / variant",
+    "example": "You have the option to skip this step.",
+    "example_az": "Bu addımı keçmək seçiminiz var.",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "patient",
+    "word": "patient",
+    "translation": "səbirli (və ya xəstə)",
+    "example": "Be patient while learning new skills.",
+    "example_az": "Yeni bacarıqlar öyrənərkən səbirli olun.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": "process",
+    "word": "process",
+    "translation": "proses",
+    "example": "Building an application is a complex process.",
+    "example_az": "Tətbiq qurmaq mürəkkəb bir prosesdir.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "purpose",
+    "word": "purpose",
+    "translation": "məqsəd / qayə",
+    "example": "What is the purpose of this feature?",
+    "example_az": "Bu funksiyanın məqsədi nədir?",
+    "level": "A2",
+    "category": "general"
+  },
+  {
+    "id": "replace",
+    "word": "replace",
+    "translation": "əvəz etmək / dəyişmək",
+    "example": "We need to replace the old oil filter.",
+    "example_az": "Köhnə yağ filtrini dəyişməliyik.",
+    "level": "A2",
+    "category": "work"
+  },
+  {
+    "id": "request",
+    "word": "request",
+    "translation": "sorğu / xahiş etmək",
+    "example": "The server responded to your request.",
+    "example_az": "Server sizin sorğunuza cavab verdi.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "review",
+    "word": "review",
+    "translation": "nəzərdən keçirmək / rəy",
+    "example": "Let's review the code before merging.",
+    "example_az": "Birləşdirməzdən əvvəl kodu nəzərdən keçirək.",
+    "level": "A2",
+    "category": "technology"
+  },
+  {
+    "id": "urgent",
+    "word": "urgent",
+    "translation": "təcili / təxirəsalınmaz",
+    "example": "I received an urgent notification.",
+    "example_az": "Təcili bir bildiriş aldım.",
+    "level": "A2",
+    "category": "time"
+  }
+]
